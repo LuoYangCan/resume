@@ -2,7 +2,7 @@
 
 * 借鉴于： [@ Cong Min](https://congm.in)
 
-![罗阳灿-简历](https://github.com/LuoYangCan/resume/raw/master/resume.png)
+![罗阳灿-简历](https://github.com/LuoYangCan/resume/blob/master/resume.png)
 
 前提: 已安装`nodejs` `npm`
 
