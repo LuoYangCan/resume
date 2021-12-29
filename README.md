@@ -1,9 +1,7 @@
 ## 简历
 
-* 借鉴于： [@ Cong Min](https://congm.in)
-
 ![罗阳灿-简历](https://github.com/LuoYangCan/resume/blob/master/resume.png)
-
+<!--
 前提: 已安装`nodejs` `npm`
 
 - 0、`npm i` 安装依赖
@@ -13,5 +11,7 @@
 - 4、浏览器打开 `/index.html` 进行预览
 
 > chrome浏览器 - "打印" - 设置无边距 - 即可导出
+-->
+* 借鉴于： [@ Cong Min](https://congm.in)
 
 Fork或借鉴请注明出处 [@ Cong Min](https://congm.in) . 
